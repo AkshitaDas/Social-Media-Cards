@@ -1,0 +1,55 @@
+body{
+    background: salmon;
+}
+
+span{
+    font-size:15px;
+    font-weight: 500;
+}
+
+a{
+  text-decoration:none; 
+  color: #0062cc;
+}
+
+a:hover{
+    text-decoration: none;
+    border-bottom:2px solid #0062cc;;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#fbf7f0;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
+}
+
+.fa-instagram{
+    color: crimson;
+}
+
+.fa-pinterest-p{
+    color: crimson;
+}
+
+.fa-google-plus{
+    color: crimson;
+}
+
+.fa-github{
+    color: black;
+}
+
+.fab{
+    color: #25d366;
+}
